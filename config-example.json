@@ -1,0 +1,9 @@
+{
+    "db_host": "localhost",
+    "db_user": "root",
+    "db_password": "",
+    "db_database": "db_escrowbot",
+    "fb_email": "tumail@ejemplo.com",
+    "fb_password": "",
+    "fb_pageID": "107315647657219"
+}
